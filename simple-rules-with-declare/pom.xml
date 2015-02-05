@@ -4,10 +4,10 @@
 	<groupId>org.jboss.ddoyle.brms</groupId>
 	<artifactId>simple-rules-with-declare</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<!--
 	<packaging>kjar</packaging>
-	-->
+	<!--
 	<packaging>jar</packaging>
+	-->
 
 	<name>simple rules</name>
 	<dependencies>
@@ -25,7 +25,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<!-- 
 		<plugins>
 			<plugin>
 				<groupId>org.kie</groupId>
@@ -34,6 +33,5 @@
 				<extensions>true</extensions>
 			</plugin>
 		</plugins>
-		 -->
 	</build>
 </project>
